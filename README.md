@@ -24,7 +24,8 @@ Mediation analysis:
 
 
 Colocalization analysis:
-colocalization.R
+
+    colocalization.R
 
 
 Enrichment analysis:
