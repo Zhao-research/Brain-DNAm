@@ -5,7 +5,7 @@ The programs shown here were used to pre-process the brain DNA methylation (asse
 ## Statistical analysis
 DNA methylation pre-processing:
 
-    generation of consensus 5hmC region.R
+    DNAm pre-processing.R
     batch removal.R
     PCA.R
 
