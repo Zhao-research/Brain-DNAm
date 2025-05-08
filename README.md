@@ -7,7 +7,6 @@ DNA methylation pre-processing:
 
     DNAm pre-processing.R
     surrogate variable derivation.R
-    PCA.R
 
     
 Association analysis:
