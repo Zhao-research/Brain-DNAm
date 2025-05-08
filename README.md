@@ -17,10 +17,14 @@ Association analysis:
     meta-analysis.R
     
 
-
 Mediation analysis:
 
     mediation.R 
+
+
+snRNA-seq analysis.R
+
+    snRNA seq analysis.R
 
 
 Colocalization analysis:
