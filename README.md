@@ -18,13 +18,11 @@ Association analysis:
     
 
 
-snRNA-seq analysis:
+Mediation analysis:
 
-    RNA-seq gene expression.R 
-    ChIP-seq histone.R
-    TMT proteomics.R
+    mediation.R 
 
 
-GARFIELD shell script:
+Enrichment analysis:
 
     GARFIELD_Code.sh
