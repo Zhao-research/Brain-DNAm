@@ -11,9 +11,9 @@ DNA methylation pre-processing:
     
 Association analysis:
 
-    elastic net model.R
-    association analysis.R
-    variation explained.R
+    EWAS.R
+    bacon correction.R
+    AD prediction.R
     meta-analysis.R
     
 
