@@ -23,6 +23,10 @@ Mediation analysis:
     mediation.R 
 
 
+Colocalization analysis:
+colocalization.R
+
+
 Enrichment analysis:
 
     GARFIELD_Code.sh
