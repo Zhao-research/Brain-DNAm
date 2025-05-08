@@ -6,7 +6,7 @@ The programs shown here were used to pre-process the brain DNA methylation (asse
 DNA methylation pre-processing:
 
     DNAm pre-processing.R
-    batch removal.R
+    surrogate variable derivation.R
     PCA.R
 
     
