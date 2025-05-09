@@ -34,4 +34,4 @@ Colocalization analysis:
 
 Enrichment analysis:
 
-    GARFIELD_Code.sh
+    GARFIELD.sh
