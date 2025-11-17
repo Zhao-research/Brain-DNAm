@@ -13,7 +13,6 @@ Association analysis:
 
     EWAS.R
     bacon correction.R
-    AD prediction.R
     meta-analysis.R
     
 
