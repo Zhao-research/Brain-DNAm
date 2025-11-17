@@ -14,6 +14,7 @@ Association analysis:
     EWAS.R
     bacon correction.R
     meta-analysis.R
+    replication.R
     
 
 Mediation analysis:
