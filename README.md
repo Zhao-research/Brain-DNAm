@@ -15,6 +15,7 @@ Association analysis:
     bacon correction.R
     meta-analysis.R
     replication.R
+    DMR.sh
     
 
 Mediation analysis:
